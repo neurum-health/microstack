@@ -1,0 +1,15 @@
+module.exports = {
+    HOST: "http://test.com",
+    PORT: 1234,
+    USER: "TEST_USER",
+    USER_ID: 1,
+    PASSWORD: "TEST_PASSWORD",
+    DATABASE: "TEST_DATABASE",
+    CONNECTION_LIMIT: 10,
+    SERVICE_NAME: "TEST_SERVICE_NAME",
+    API_PATH: "test/path",
+    ERROR_CODE: 100,
+    ERROR_MESSAGE: "TEST_ERROR_MESSAGE",
+    KEY: "TEST_KEY",
+    SECRET: "TEST_SECRET"
+}
